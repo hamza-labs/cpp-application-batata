@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/ObjImages">
+        <file>images/batata.png</file>
+        <file>images/monster.png</file>
+        <file>images/obstacle.png</file>
+        <file>images/obstacleM.png</file>
+        <file>images/player.png</file>
+        <file>images/empty.png</file>
+    </qresource>
+</RCC>
